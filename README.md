@@ -1,4 +1,7 @@
 Crossy_Road
 
-
-Use level start with screen level.
+To play:
+1.
+"Use level start with Start screen" level.
+2.
+Click start button to play.
